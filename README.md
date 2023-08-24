@@ -5,10 +5,11 @@
 
 <h3 align="center">Soy estudiante de  FICCT UAGRM🌟.</h3>
 
+<a href="https://github.com/Alba070503"><img src="https://github.com/Alba070503/Alba070503/blob/main/Picsart_23-08-23_20-43-42-179.png" width="450" height="300" alt="FICCT-UAGRM"/></a>
 
 <br>
 
-<p align="right"> <h3>Profile Views :-</h3> <img src="https://komarev.com/ghpvc/?username=Alba070503-pw&label=Profile%20views&color=0e75b6&style=flat"
+<p align="right"> <h3>Visita del perfil :-D:-</h3> <img src="https://komarev.com/ghpvc/?username=Alba070503-pw&label=Profile%20views&color=0e75b6&style=flat"
     alt="adam-pw" /> 
   </p>
 
